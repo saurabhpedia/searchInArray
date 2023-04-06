@@ -1,0 +1,24 @@
+{
+  "name": "searchinarray",
+  "version": "1.0.0",
+  "description": "The find method is used to search the array for an object where the value of the key property matches the specified value. If a matching object is found, it is returned. If no matching object is found, undefined is returned.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhpedia/searchInArray.git"
+  },
+  "keywords": [
+    "searchInArray",
+    "array",
+    "search"
+  ],
+  "author": "Saurabh Raman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saurabhpedia/searchInArray/issues"
+  },
+  "homepage": "https://github.com/saurabhpedia/searchInArray#readme"
+}
