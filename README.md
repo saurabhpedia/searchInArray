@@ -1,7 +1,7 @@
 
 # Search In Array Function
 
-Here, the searchInArray function takes three parameters:
+Here, the searchArrayByKey function takes three parameters:
 
 `array`: the array of objects to search
 `key`: the key to search for within each object

@@ -1,5 +1,5 @@
 {
-  "name": "searchinarray",
+  "name": "searchArrayByKey",
   "version": "1.0.0",
   "description": "The find method is used to search the array for an object where the value of the key property matches the specified value. If a matching object is found, it is returned. If no matching object is found, undefined is returned.",
   "main": "index.js",
